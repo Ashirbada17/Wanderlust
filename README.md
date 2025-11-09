@@ -1,5 +1,10 @@
 # 🌍 Wanderlust
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 A full-stack web application for **listing, reviewing, and exploring travel destinations**.  
 Built using **Node.js, Express, MongoDB, Mongoose, Passport.js, EJS, Cloudinary, and Bootstrap**.
 
@@ -70,10 +75,11 @@ Copy code
 ---
 
 ## 📸 Screenshots
-
-<img width="100" height="100" alt="Screenshot 1" src=""https://github.com/user-attachments/assets/60561d2b-e284-4b86-9f9c-f45745e989bb" />  
-<img width="100" height="100" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3396edba-b518-4e7f-b3f4-b3b303b826c2" />  
-<img width="100" height="100" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1d7bf2a5-0957-4f01-bc1b-1c320596fed3" />  
+<p float=left>
+<img width="200"  alt="Screenshot 1" src="https://github.com/user-attachments/assets/60561d2b-e284-4b86-9f9c-f45745e989bb" />  
+<img width="200"  alt="Screenshot 2" src="https://github.com/user-attachments/assets/3396edba-b518-4e7f-b3f4-b3b303b826c2" />  
+<img width="200"  alt="Screenshot 3" src="https://github.com/user-attachments/assets/1d7bf2a5-0957-4f01-bc1b-1c320596fed3" />  
+</p>
 
 ---
 
