@@ -47,27 +47,27 @@ Built using **Node.js, Express, MongoDB, Mongoose, Passport.js, EJS, Cloudinary,
 ## 🗂️ Folder Structure
 
 wanderlust/
+├── backend/                # Backend server
+│   ├── config/             # DB, Passport.js, Cloudinary config
+│   ├── controllers/        # Route controllers
+│   ├── models/             # Mongoose schemas
+│   ├── routes/             # Express routes
+│   ├── middleware/         # Auth & flash middleware
+│   └── app.js              # Main backend entry
 │
-├── backend/ # Backend server
-│ ├── config/ # DB, Passport.js, Cloudinary config
-│ ├── controllers/ # Route controllers
-│ ├── models/ # Mongoose schemas
-│ ├── routes/ # Express routes
-│ ├── middleware/ # Auth & flash middleware
-│ └── app.js # Main backend entry
+├── frontend/               # Frontend views
+│   ├── views/              # EJS templates
+│   │   ├── partials/       # Header, footer, navbar, etc.
+│   │   ├── listings/       # Listing pages
+│   │   ├── reviews/        # Review pages
+│   │   └── auth/           # Login/Register pages
+│   └── public/             # CSS, JS, images
 │
-├── frontend/ # Frontend views
-│ ├── views/ # EJS templates
-│ │ ├── partials/ # Header, footer, navbar, etc.
-│ │ ├── listings/ # Listing pages
-│ │ ├── reviews/ # Review pages
-│ │ └── auth/ # Login/Register pages
-│ └── public/ # CSS, JS, images
-│
-├── image/ # Screenshots for README or demo
+├── image/                  # Screenshots for README or demo
 ├── package.json
 ├── README.md
-└── .env # Environment variables
+└── .env                    # Environment variables
+
 
 yaml
 Copy code
