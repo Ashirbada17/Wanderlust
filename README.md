@@ -71,9 +71,9 @@ Copy code
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot 1" src=""https://github.com/user-attachments/assets/60561d2b-e284-4b86-9f9c-f45745e989bb"" />  
-<img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3396edba-b518-4e7f-b3f4-b3b303b826c2" />  
-<img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1d7bf2a5-0957-4f01-bc1b-1c320596fed3" />  
+<img width="100" height="100" alt="Screenshot 1" src=""https://github.com/user-attachments/assets/60561d2b-e284-4b86-9f9c-f45745e989bb" />  
+<img width="100" height="100" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3396edba-b518-4e7f-b3f4-b3b303b826c2" />  
+<img width="100" height="100" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1d7bf2a5-0957-4f01-bc1b-1c320596fed3" />  
 
 ---
 
